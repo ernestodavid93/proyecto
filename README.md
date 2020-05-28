@@ -1,3 +1,3 @@
-- Nombre: Puto Venta
+- Nombre: Punto Venta
 - El proyecto como su nombre dice es para el control de una pequeña tienda de abarrotes 
 - Job Moreno - Ernesto Lopez
